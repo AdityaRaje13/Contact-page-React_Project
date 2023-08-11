@@ -1,0 +1,19 @@
+.navigation li
+{
+  list-style: none;
+}
+
+.navigation
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+
+.container
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

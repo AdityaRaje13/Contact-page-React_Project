@@ -1,0 +1,14 @@
+.contactTitle
+{
+    font-size: 55px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    padding: 10px;
+}
+
+.p
+{
+    align-items: center;
+    justify-content: center;
+    text-align: justify;
+}
